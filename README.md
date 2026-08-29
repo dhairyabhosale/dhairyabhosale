@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhairyabhosale&label=Profile%20views&color=0e75b6&style=flat" alt="dhairyabhosale" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhairyabhosale" alt="dhairyabhosale" /></a> </p>
+
 - 🔭 I’m currently working on [NISHAN (Nidhi Investigation, Status, Help & Accountability Navigator)](https://github.com/dhairyabhosale/Project-NISHAN)
 
 - 🌱 I’m currently learning **Prompt Frameworks, Python, Data Handling, Data Analysis & Content Creation**
@@ -27,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhairyabhosale&show_icons=true&locale=en&layout=compact" alt="dhairyabhosale" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhairyabhosale&show_icons=true&locale=en" alt="dhairyabhosale" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyabhosale&" alt="dhairyabhosale" /></p>
