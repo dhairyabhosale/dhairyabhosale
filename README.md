@@ -121,8 +121,11 @@ fun_fact:  "Versatile learner — I'd rather understand the whole system than on
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhairyabhosale&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&bg_color=0D1117&title_color=E33F8E&icon_color=FF7A18&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyabhosale&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400&bg_color=0D1117&title_color=E33F8E&text_color=C9D1D9" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/dhairyabhosale/dhairyabhosale/analytics/github-overview.svg" alt="GitHub overview" width="100%" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/dhairyabhosale/dhairyabhosale/analytics/top-languages.svg" alt="Top languages" width="100%" />
 
 <br/><br/>
 
@@ -130,11 +133,11 @@ fun_fact:  "Versatile learner — I'd rather understand the whole system than on
 
 </div>
 
-### 📈 Contribution Activity
+### 📈 Public Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhairyabhosale&custom_title=Commits%20over%20the%20last%2031%20days&bg_color=0D1117&color=C9D1D9&line=E33F8E&point=FF7A18&area=true&area_color=A22FC4&hide_border=true" alt="Contribution activity graph" width="100%" />
+<img src="https://raw.githubusercontent.com/dhairyabhosale/dhairyabhosale/analytics/public-activity.svg" alt="Public contribution activity" width="100%" />
 
 </div>
 
