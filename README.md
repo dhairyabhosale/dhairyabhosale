@@ -1,18 +1,4 @@
-<!--
-  ══════════════════════════════════════════════════════════════════════
-   Profile README for github.com/dhairyabhosale
-   Lives in:  dhairyabhosale/dhairyabhosale  →  README.md
-  ══════════════════════════════════════════════════════════════════════
-   CHECKLIST BEFORE YOU COMMIT
-   1. Commit assets/header.svg and assets/footer.svg to this same repo.
-   2. Replace the LinkedIn slug below with your real one.
-   3. Verify the two repo slugs: SentinelAI and VIT-Hostel-App.
-      Open your repositories tab, copy the exact name from the URL,
-      and search-replace it here. A wrong slug = a broken card.
-   4. Replace the two [Replace: ...] project descriptions.
-   5. Add .github/workflows/snake.yml for the snake animation.
-  ══════════════════════════════════════════════════════════════════════
--->
+<!-- Profile README for github.com/dhairyabhosale -->
 
 <img src="https://raw.githubusercontent.com/dhairyabhosale/dhairyabhosale/main/assets/header.svg" alt="Dhairya Bhosale — Data Science, Builder, Prompt Engineer" width="100%" />
 
@@ -24,7 +10,6 @@
 
 <br/>
 
-<!-- ⚠️ REPLACE the LinkedIn slug with your real one -->
 <a href="https://www.linkedin.com/in/dhairyabhosale">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -73,7 +58,6 @@ fun_fact:  "Versatile learner — I'd rather understand the whole system than on
 
 <div align="center">
 
-<!-- ⚠️ Verify the repo slug in this block matches your actual repo name -->
 <a href="https://github.com/dhairyabhosale/SentinelAI">
   <img src="https://img.shields.io/badge/SentinelAI-View%20Repository-E33F8E?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="SentinelAI repository" height="34" />
 </a>
@@ -87,8 +71,8 @@ fun_fact:  "Versatile learner — I'd rather understand the whole system than on
 
 </div>
 
-> **[Replace: one or two lines on what SentinelAI does and who it's for.]**
-> Keep it concrete — what problem it solves, and what makes your approach different.
+> **SentinelAI is a browser-based AI safety project focused on detecting deepfakes, assessing content authority, and identifying impersonation signals.**
+> It combines provider routing, model fallbacks, heuristics, score fusion, authority analysis, and impersonation detection.
 
 ---
 
@@ -97,14 +81,8 @@ fun_fact:  "Versatile learner — I'd rather understand the whole system than on
 | Project | What it does | Stack | Status |
 |:--|:--|:--|:--|
 | **[Project NISHAN](https://github.com/dhairyabhosale/Project-NISHAN)** | Traces where a PM-KISAN payment actually got stuck, in plain English and Hindi, with a rendered "Money Rail" and status-code-to-human mapping. | `Next.js` `TypeScript` `Tailwind` `PostgreSQL` | 🟢 [Live demo](https://project-nishan.vercel.app) |
-| **[VIT Hostel App](https://github.com/dhairyabhosale/VIT-Hostel-App)** | *[Replace: one line on what the hostel app does.]* | `—` | 🟡 In progress |
+| **[VIT Hostel App](https://github.com/dhairyabhosale/VIT-Hostel-App)** | VIT Hostel Connect — a hostel management application with student activation, OTP-based access, complaint photo uploads, and a backend service. | `Python` `Expo` `MongoDB` | 🟡 In progress |
 | **[GreenerWay](https://www.greenerway.no/)** | Client website — SEO strategy, keyword research, site structure and UI design for a live Norwegian business. | `SEO` `Web Design` `UI` | 🟢 Live |
-
-<!--
-  Adding another project? Copy a row. For a GitHub project use
-  [Name](https://github.com/dhairyabhosale/REPO); for client work
-  link the live site instead.
--->
 
 ---
 
@@ -148,7 +126,7 @@ fun_fact:  "Versatile learner — I'd rather understand the whole system than on
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=dhairyabhosale&hide_border=true&background=0D1117&stroke=21262D&ring=E33F8E&fire=FF7A18&currStreakLabel=E33F8E&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com?user=dhairyabhosale&hide_border=true&background=0D1117&stroke=21262D&ring=E33F8E&fire=FF7A18&currStreakLabel=E33F8E&sideLabels=C9D1D9&dates=8B9498&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Contribution streak" />
 
 </div>
 
@@ -171,12 +149,6 @@ fun_fact:  "Versatile learner — I'd rather understand the whole system than on
 </picture>
 
 </div>
-
-<!--
-  The snake only exists after .github/workflows/snake.yml has run once.
-  Actions tab → "Generate Snake Animation" → Run workflow.
-  Until then this stays a broken image, so delete this section if you skip it.
--->
 
 ### 🏆 Trophies
 
