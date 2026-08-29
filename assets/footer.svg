@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 110" width="1000" height="110" role="img" aria-label="">
+  <defs>
+    <linearGradient id="fbase" x1="100%" y1="100%" x2="0%" y2="0%"><stop offset="0%" stop-color="#FF7A18"/><stop offset="28%" stop-color="#FF4A3D"/><stop offset="55%" stop-color="#E33F8E"/><stop offset="80%" stop-color="#A22FC4"/><stop offset="100%" stop-color="#5D1C9E"/></linearGradient>
+    <radialGradient id="f1" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#FF9A2E" stop-opacity="0.9"/><stop offset="100%" stop-color="#FF9A2E" stop-opacity="0"/></radialGradient>
+    <radialGradient id="f2" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#F04FA6" stop-opacity="0.85"/><stop offset="100%" stop-color="#F04FA6" stop-opacity="0"/></radialGradient>
+    <radialGradient id="f3" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#6B1FB0" stop-opacity="0.95"/><stop offset="100%" stop-color="#6B1FB0" stop-opacity="0"/></radialGradient>
+    <filter id="fsoft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="34"/></filter>
+    <pattern id="fdots" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="1.8" cy="1.8" r="1.05" fill="#ffffff"/></pattern>
+    <linearGradient id="fdotFade" x1="100%" y1="100%" x2="0%" y2="0%"><stop offset="0%" stop-color="#000000"/><stop offset="45%" stop-color="#3a3a3a"/><stop offset="100%" stop-color="#ffffff"/></linearGradient>
+    <mask id="fdotMask"><rect width="1000" height="110" fill="url(#fdotFade)"/></mask>
+    <clipPath id="fframe"><rect width="1000" height="110"/></clipPath>
+    <style>
+      .fblob{animation:fdrift 7s ease-in-out infinite}.fb-b{animation-duration:8.4s;animation-direction:reverse}.fb-c{animation-duration:6.4s}@keyframes fdrift{0%,100%{transform:translate(0,0)}50%{transform:translate(30px,-14px)}}
+      @media (prefers-reduced-motion:reduce){.fblob{animation:none}}
+    </style>
+  </defs>
+  <g clip-path="url(#fframe)"><rect width="1000" height="110" fill="url(#fbase)"/><g filter="url(#fsoft)"><ellipse class="fblob" cx="880" cy="96" rx="280" ry="110" fill="url(#f1)"/><ellipse class="fblob fb-b" cx="520" cy="10" rx="290" ry="105" fill="url(#f2)"/><ellipse class="fblob fb-c" cx="110" cy="14" rx="270" ry="110" fill="url(#f3)"/></g><rect width="1000" height="110" fill="url(#fdots)" mask="url(#fdotMask)" opacity="0.6"/></g>
+</svg>
